@@ -24,8 +24,11 @@ select{
     /* border: 2px solid green; */
 }
 img{
-    max-width: 900px;
-    max-height: 700px;
+    min-height: 450px;
+    max-height: 500px;
+    min-height: 450px;
+    max-width: 500px;
+    
 }
 span{
     font-weight: bold;
